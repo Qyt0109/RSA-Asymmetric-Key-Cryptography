@@ -4,9 +4,6 @@ RSA is a public-key encryption algorithm that is widely used for secure data tra
 <p>Khóa công khai (n, e): (667, 163)</p>
 <p>Khóa bí mật (p, q, d): (23, 29, 291)</p>
 <p>--------------------------------------------</p>
-<p>Khóa công khai (n, e): (667, 163)</p>
-<p>Khóa bí mật (p, q, d): (23, 29, 291)</p>
-<p>--------------------------------------------</p>
 <p>Mã hoá bản rõ sử dụng khoá công khai: (667, 163)</p>
 <p>Nhập bản rõ cần mã hóa: abc</p>
 <p>Bản rõ dưới dạng số tương ứng trong bảng mã Unicode: [97, 98, 99]</p>
